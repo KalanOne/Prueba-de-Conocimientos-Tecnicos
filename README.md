@@ -1,7 +1,7 @@
 
 # Pruebas Técnicas – Ejercicios Resueltos
 
-Este repositorio contiene cuatro ejercicios técnicos que abarcan manipulación de datos, Java, OpenJVS, y diseño de pipelines para ingestión de market data.
+Este repositorio contiene cuatro ejercicios técnicos que abarcan manipulación de datos, Java, OpenJVS, y diseño de pipelines para recolección de market data.
 Cada ejercicio incluye su código y documentación correspondiente.
 
 ---
@@ -45,7 +45,7 @@ Características:
 
 ---
 
-## Ejercicio 3 – Pipeline de Ingestión de Precios EoD en Beacon
+## Ejercicio 3 – Pipeline de Recolección de Precios EoD en Beacon
 
 Contexto:
 
@@ -63,7 +63,7 @@ Diseño de Solución:
 7. Automatización y consideraciones cloud (roles, secretos, archivado de CSV).
 
 Resultado:
-Pipeline seguro, idempotente y auditable para ingestión de market data.
+Pipeline seguro, idempotente y auditable para recolección de market data.
 
 ---
 
@@ -115,7 +115,7 @@ Complejidad:
 
 * Ejercicio 1: Manejo de inventario en Java.
 * Ejercicio 2: Combinación de tablas en OpenJVS y JTable.
-* Ejercicio 3: Pipeline de ingestión de market data en Beacon.
+* Ejercicio 3: Pipeline de recolección de market data en Beacon.
 * Ejercicio 4: Algoritmo para eliminar duplicados por bloques de 3 en Java.
 
 Cada ejercicio incluye su propio README con explicación detallada,
